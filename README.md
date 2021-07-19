@@ -1,2 +1,0 @@
-# Redux-Workout
-Redux workout
